@@ -1,6 +1,6 @@
 # Omnichannel Retail ETL Pipeline
 
-นี่คือเอกสาร README สำหรับโปรเจกต์ Data Pipeline สำหรับดึงข้อมูล ทำความสะอาดข้อมูล และโหลดข้อมูลการขายของร้านค้าปลีก (Omnichannel Retail) เข้าสู่ Star Schema
+เอกสาร README สำหรับโปรเจกต์ Data Pipeline สำหรับดึงข้อมูล ทำความสะอาดข้อมูล และโหลดข้อมูลการขายของร้านค้าปลีก (Omnichannel Retail) เข้าสู่ Star Schema
 
 ## 1. วิธีการติดตั้ง (Installation)
 ระบบนี้พัฒนาด้วยภาษา Python และใช้ไลบรารีพื้นฐานสำหรับการจัดการข้อมูล
